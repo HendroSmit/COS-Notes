@@ -28,7 +28,7 @@ Act I — Arc A
 
 ### Session Index
 
-| #   | Title                                  | Arc           | Date | Link                         | Highlights                                                                                                                     |
-| --- | -------------------------------------- | ------------- | ---- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | Death House (arrival and first floor)  | Act I — Arc A | —    | [Session_1.md](Session_1.md) | Arrived in Daggerford on Highharvestide; barkeep’s job; entered Death House; riddle at 6; hunting room; invitation; crossbows. |
-| 2   | Death House (upper floors and descent) | Act I — Arc A | —    | [Session_2.md](Session_2.md) | Template prepared: time pressure to midnight; secret room + “gift”; humming below.                                             |
+| #   | Title                                  | Arc           | Date | Link                         | Highlights                                                                                                                                                                      |
+| --- | -------------------------------------- | ------------- | ---- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Death House (arrival and first floor)  | Act I — Arc A | —    | [Session_1.md](Session_1.md) | Arrived in Daggerford on Highharvestide; barkeep’s job; entered Death House; riddle at 6; hunting room; invitation; crossbows.                                                  |
+| 2   | Death House (upper floors and descent) | Act I — Arc A | —    | [Session_2.md](Session_2.md) | Dining room feast; kitchen pantry cache (wine, lace “K”, silphium, note “—G”); dumbwaiter antics; Waltz for Klara opens Library secret; Strahd letter; animated armor defeated. |

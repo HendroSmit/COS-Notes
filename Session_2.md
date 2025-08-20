@@ -10,20 +10,52 @@ Use this template to prep and log the next session. It carries forward context a
 
 ## Timekeeping
 
-- Current time: shortly after 6 o’clock.
-- Midnight event: the “beast” awakens. Track exploration time by room or scene.
+- Shortly after 6 o’clock; the “beast” awakens at midnight (track time).
 
 ## Clues and Leads
 
-- Secret room implied by the riddle; requires a “gift.”
-- Humming from below suggests a ritual site or lair.
-- Portrait inscription omits a baby; Durst family secret likely relevant (nursery, study, or hidden records).
-- Servants/brood warning—animated décor or summoned guardians.
-- Invitation ties to Durst Mill anniversary; dining hall/study may hold context objects.
+- Secret room exists; something about an offering/gift (per the riddle).
+- Humming from below suggests a lair/ritual site.
+- Durst family secrets (portrait baby missing; invitation) are relevant.
+- Expect servants/brood/animated guardians.
 
 ## Objectives
 
-- Identify the secret room and determine the “gift.”
+## Objectives
+
+- Find the secret room and figure out the “gift.”
 - Locate the source of the humming below.
-- Map the first and second floors (mark locked doors, hazards, and curios).
-- Gather proof of the Death House’s threat for payment—or a means to dispel it.
+- Map key rooms and gather evidence of the house’s threat.
+
+## Highlights (player-facing)
+
+- Dining Room: lavish feast laid out; sound of dinner vanished on approach.
+- Kitchen/Pantry: largest knife missing; pantry cache found—Wizard of Wines “Champagne du le Stomp”, lace with “K,” dried brown powder, wilted sunflowers with note “For the light of my life. —G.” A kitchen knife later flew into the wall when the note was read.
+- Upper Hall: windmill-cameo longsword; wolf-helmed suits of armor; cold draft from above.
+- Servants’ Room: dumbwaiter answered the bell; laundry sent down returned folded — woman’s slip missing.
+- Conservatory: “Waltz for Klara” discovered; playing it revealed a spectral dance (Elisabeth glaring; Gustav dancing with a humble young woman) and a scraping bookshelf across the hall.
+- Library: letter from Klara; receipts for candles/daggers/incense; secret door opened.
+- Secret Room: ominous tomes and a skeleton; Strahd letter found.
+- Third-Floor Balcony: animated armor defeated — Gold thrown but lands on his feet; Raven tanks; Ori’s crossbow shot ends it.
+
+## Notable Items
+
+- Bottle: Champagne du le Stomp (vintage ruined to vinegar)
+- Lace with “K” monogram
+- Vial of dried silphium
+- Wilted sunflowers + note signed “—G.”
+- Receipts (candles, daggers, incense)
+
+## Clues and Threads
+
+- “K” and “—G” suggested by items and letters; Elisabeth’s jealousy seen in the vision.
+- Windmill motif recurs (sword, plates, art); Durst ties.
+- House responds to music: “Waltz for Klara” triggered the Library secret.
+- Unseen household “servants” (dumbwaiter).
+- Midnight riddle still looming.
+
+## Next
+
+- Continue the third floor; look for the master suite and more clues.
+- Track time against midnight.
+- Examine the secret room materials carefully; document findings.

@@ -12,10 +12,10 @@ Lightweight Markdown notes for a DnD 5e campaign using Curse of Strahd Reloaded.
 
 ## How to add a new session
 
-1) Duplicate the latest session file and rename, e.g., `Session_2.md` → `Session_3.md`.
-2) Update the H1 title and recap at the top.
-3) Keep the structure: recap → timekeeping → party loadout → clues/leads → objectives → risks → room log → NPCs/entities → loot → to-do.
-4) Add the new session to the Sessions Index table in `Campaign_Summary.md` with a brief highlight.
+1. Duplicate the latest session file and rename, e.g., `Session_2.md` → `Session_3.md`.
+2. Update the H1 title and recap at the top.
+3. Keep the structure: recap → timekeeping → party loadout → clues/leads → objectives → risks → room log → NPCs/entities → loot → to-do.
+4. Add the new session to the Sessions Index table in `Campaign_Summary.md` with a brief highlight.
 
 ## Conventions
 
