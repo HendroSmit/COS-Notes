@@ -40,9 +40,9 @@ Use this template to prep and log the next session. It carries forward context a
 
 ## Notable Items
 
-- Bottle: Champagne du le Stomp (vintage ruined to vinegar)
+- Bottle: Champagne du le Stomp
 - Lace with “K” monogram
-- Vial of dried silphium
+- Vial of dried powder
 - Wilted sunflowers + note signed “—G.”
 - Receipts (candles, daggers, incense)
 
